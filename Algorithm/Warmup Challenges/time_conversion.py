@@ -2,6 +2,7 @@
 
 import sys
 
+
 def timeConversion(s):
     # Complete this function
     m = s[-2:]
@@ -15,6 +16,7 @@ def timeConversion(s):
     h = str(h).zfill(2)
     result = h + s[2:-2]
     return result
+
 
 s = input().strip()
 result = timeConversion(s)
