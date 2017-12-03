@@ -1,4 +1,10 @@
+#!/bin/python3
+
+import sys
+
+
 class Difference:
+
     def __init__(self, a):
         self.__elements = a
 
@@ -10,6 +16,7 @@ class Difference:
                 diffs_list.append(abs(self.__elements[i] - self.__elements[j]))
         self.maximumDifference = max(diffs_list)
         return
+
 
 _ = input()
 a = [int(e) for e in input().split(' ')]

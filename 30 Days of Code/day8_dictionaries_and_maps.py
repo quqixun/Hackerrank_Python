@@ -1,3 +1,8 @@
+#!/bin/python3
+
+import sys
+
+
 n = int(input())
 
 phone_dict = {}

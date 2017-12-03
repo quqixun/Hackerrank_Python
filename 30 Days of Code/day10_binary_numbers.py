@@ -19,7 +19,7 @@ for i in range(len(bin_list)):
     b = bin_list[i]
     if b == 1:
         temp.append(b)
-    
+
     if b == 0 or i == len(bin_list) - 1:
         if len(temp) > 0:
             bin_one_num_list.append(len(temp))

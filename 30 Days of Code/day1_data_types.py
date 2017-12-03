@@ -1,3 +1,8 @@
+#!/bin/python3
+
+import sys
+
+
 i = 4
 d = 4.0
 s = 'HackerRank '

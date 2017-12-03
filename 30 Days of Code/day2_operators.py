@@ -1,3 +1,8 @@
+#!/bin/python3
+
+import sys
+
+
 def get_total_cost_of_meal():
     # original meal price
     meal_cost = float(input())
@@ -10,9 +15,9 @@ def get_total_cost_of_meal():
     tip = meal_cost * tip_percent / 100
     tax = meal_cost * tax_percent / 100
 
-    # cast the result of the rounding operation to an int and save it as total_cost 
+    # cast the result of the rounding operation to an int and save it as total_cost
     total_cost = int(round(meal_cost + tip + tax))
-    
+
     return str(total_cost)
 
 # Print your result

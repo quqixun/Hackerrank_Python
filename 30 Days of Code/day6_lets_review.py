@@ -1,3 +1,8 @@
+#!/bin/python3
+
+import sys
+
+
 T = int(input())
 
 for _ in range(T):
