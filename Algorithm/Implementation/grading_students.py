@@ -2,6 +2,7 @@
 
 import sys
 
+
 def solve(grades):
     # Complete this function
     for i in range(len(grades)):
@@ -14,11 +15,12 @@ def solve(grades):
                 grades[i] = multi5
     return grades
 
+
 n = int(input().strip())
 grades = []
 grades_i = 0
 for grades_i in range(n):
-   grades_t = int(input().strip())
-   grades.append(grades_t)
+    grades_t = int(input().strip())
+    grades.append(grades_t)
 result = solve(grades)
-print ("\n".join(map(str, result)))
+print("\n".join(map(str, result)))

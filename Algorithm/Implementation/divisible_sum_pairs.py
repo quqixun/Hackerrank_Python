@@ -2,6 +2,7 @@
 
 import sys
 
+
 def divisibleSumPairs(n, k, ar):
     # Complete this function
     num = 0
@@ -10,6 +11,7 @@ def divisibleSumPairs(n, k, ar):
             if (ar[i] + ar[j]) % k == 0:
                 num += 1
     return num
+
 
 n, k = input().strip().split(' ')
 n, k = [int(n), int(k)]

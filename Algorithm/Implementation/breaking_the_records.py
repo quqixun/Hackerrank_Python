@@ -2,6 +2,7 @@
 
 import sys
 
+
 def getRecord(s):
     # Complete this function
     hs, ls = s[0], s[0]
@@ -17,7 +18,8 @@ def getRecord(s):
             pass
     return [hnum, lnum]
 
+
 n = int(input().strip())
 s = list(map(int, input().strip().split(' ')))
 result = getRecord(s)
-print (" ".join(map(str, result)))
+print(" ".join(map(str, result)))

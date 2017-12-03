@@ -2,14 +2,15 @@
 
 import sys
 
+
 def getTotalX(a, b):
     # Complete this function
     if max(a) > min(b):
         return 0
-    
+
     if max(a) == min(b):
         return 1
-    
+
     pb_list = list(range(max(a), min(b) + 1))
     rm_list = []
     for p in pb_list:
@@ -24,6 +25,7 @@ def getTotalX(a, b):
                 break
     rm_list = list(set(rm_list))
     return len(pb_list) - len(rm_list)
+
 
 if __name__ == "__main__":
     n, m = input().strip().split(' ')
