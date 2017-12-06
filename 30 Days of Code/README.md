@@ -26,7 +26,7 @@
 | 21 | [Generics](https://www.hackerrank.com/challenges/30-generics/tutorial) | [day21_generics.java](https://github.com/quqixun/Hackerrank_Python/blob/master/30%20Days%20of%20Code/day21_generics.java) | 30 | Easy |
 | 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/tutorial) | [day22_binary_search_trees.py](https://github.com/quqixun/Hackerrank_Python/blob/master/30%20Days%20of%20Code/day22_binary_search_trees.py) | 30 | Easy |
 | 23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/tutorial) | [day23_bst_level_order_traversal.py](https://github.com/quqixun/Hackerrank_Python/blob/master/30%20Days%20of%20Code/day23_bst_level_order_traversal.py) | 30 | Easy |
-| 24 | []() | []() | 30 | Easy |
+| 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [day24_more_linked_lists.py](https://github.com/quqixun/Hackerrank_Python/blob/master/30%20Days%20of%20Code/day24_more_linked_lists.py) | 30 | Easy |
 | 25 | []() | []() | 30 | Easy |
 | 26 | []() | []() | 30 | Easy |
 | 27 | []() | []() | 30 | Easy |
