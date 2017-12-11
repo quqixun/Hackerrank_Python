@@ -27,8 +27,8 @@
 | 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/tutorial) | [day22_binary_search_trees.py](https://github.com/quqixun/Hackerrank_Python/blob/master/30%20Days%20of%20Code/day22_binary_search_trees.py) | 30 | Easy |
 | 23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/tutorial) | [day23_bst_level_order_traversal.py](https://github.com/quqixun/Hackerrank_Python/blob/master/30%20Days%20of%20Code/day23_bst_level_order_traversal.py) | 30 | Easy |
 | 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [day24_more_linked_lists.py](https://github.com/quqixun/Hackerrank_Python/blob/master/30%20Days%20of%20Code/day24_more_linked_lists.py) | 30 | Easy |
-| 25 | []() | []() | 30 | Easy |
-| 26 | []() | []() | 30 | Easy |
-| 27 | []() | []() | 30 | Easy |
-| 28 | []() | []() | 30 | Easy |
-| 29 | []() | []() | 30 | Easy |
+| 25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [day25_running_time_and_complexity.py](https://github.com/quqixun/Hackerrank_Python/blob/master/30%20Days%20of%20Code/day25_running_time_and_complexity.py) | 30 | Medium |
+| 26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [day26_nested_logic.py](https://github.com/quqixun/Hackerrank_Python/blob/master/30%20Days%20of%20Code/day26_nested_logic.py) | 30 | Easy |
+| 27 | [Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [day27_testing.py](https://github.com/quqixun/Hackerrank_Python/blob/master/30%20Days%20of%20Code/day27_testing.py) | 30 | Stupid |
+| 28 | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [day28_regex.py](https://github.com/quqixun/Hackerrank_Python/blob/master/30%20Days%20of%20Code/day28_regex.py) | 30 | Medium |
+| 29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [day29_bitwise_and.py](https://github.com/quqixun/Hackerrank_Python/blob/master/30%20Days%20of%20Code/day29_bitwise_and.py) | 30 | Medium |
