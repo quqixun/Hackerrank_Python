@@ -13,3 +13,5 @@
 | 3 | [Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4/problem) | 1 / 3 | 10 | Easy |
 | 3 | [Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5/problem) | 12 / 51 | 10 | Easy |
 | 3 | [Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6/problem) | 2 / 3 | 10 | Easy |
+| 4 | [Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem) | [day4_binomial_distribution_i.py](https://github.com/quqixun/Hackerrank_Python/blob/master/10%20Days%20of%20Statistics/day4_binomial_distribution_i.py) | 30 | Easy |
+| 4 | [Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/submissions/code/61244307) | [day4_binomial_distribution_ii.py](https://github.com/quqixun/Hackerrank_Python/blob/master/10%20Days%20of%20Statistics/day4_binomial_distribution_ii.py) | 30 | Easy |
