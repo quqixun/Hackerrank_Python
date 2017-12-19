@@ -33,3 +33,6 @@
 | 29 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | [find_digits.py](https://github.com/quqixun/Hackerrank_Python/blob/master/Algorithm/Implementation/find_digits.py) | 25 | Easy |
 | 30 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [extra_long_factorials.py](https://github.com/quqixun/Hackerrank_Python/blob/master/Algorithm/Implementation/extra_long_factorials.py) | 20 | Easy |
 | 31 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [append_and_delete.py](https://github.com/quqixun/Hackerrank_Python/blob/master/Algorithm/Implementation/append_and_delete.py) | 20 | Easy |
+| 32 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [sherlock_and_squares.py](https://github.com/quqixun/Hackerrank_Python/blob/master/Algorithm/Implementation/sherlock_and_squares.py) | 20 | Easy |
+| 33 | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | [library_fine.py](https://github.com/quqixun/Hackerrank_Python/blob/master/Algorithm/Implementation/library_fine.py) | 15 | Easy |
+| 34 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | [cut_sticks.py](https://github.com/quqixun/Hackerrank_Python/blob/master/Algorithm/Implementation/cut_sticks.py) | 25 | Easy |
